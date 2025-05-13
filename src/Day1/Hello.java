@@ -55,5 +55,16 @@ public class Hello {
 
         // Menggabungkan String 
         System.out.println(kedua + " " + iniAngka1 + " " + Pertama);
+
+        // Variable
+        String name;
+        name = "hello david";
+
+        int age = 20;
+        String address = "anggajaya";
+
+        // Keyword var 
+        var age1 = 20;
+        var address2 = "ola";
     }
 }
