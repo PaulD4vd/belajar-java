@@ -66,5 +66,10 @@ public class Hello {
         // Keyword var 
         var age1 = 20;
         var address2 = "ola";
+
+        //tipe data final (immutable)
+
+        final String application = "Belajar java";
+        
     }
 }
